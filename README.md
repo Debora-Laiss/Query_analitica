@@ -1,4 +1,4 @@
-# README - Banco de Dados "operadoras_ativas"
+#  Banco de Dados "operadoras_ativas"
 
 ## Sobre o Projeto
 Este projeto consiste na criação e análise de um banco de dados PostgreSQL chamado `operadoras_ativas`, que contém informações sobre operadoras de planos de saúde e dados financeiros relacionados a eventos e sinistros. Todas as consultas e interações com o banco foram realizadas via terminal.
